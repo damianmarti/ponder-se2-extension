@@ -24,4 +24,6 @@ You can query data on a page using \`\`\`urql\`\`\`. Check the code at \`\`\`pac
 
 ### Deploy
 
-To deploy the Ponder indexer please refer to the Ponder Deploy documentation https://ponder.sh/docs/production/deploy`;
+To deploy the Ponder indexer please refer to the Ponder Deploy documentation https://ponder.sh/docs/production/deploy
+
+`;
