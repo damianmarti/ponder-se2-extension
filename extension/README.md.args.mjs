@@ -26,4 +26,6 @@ You can query data on a page using \`\`\`urql\`\`\`. Check the code at \`\`\`pac
 
 To deploy the Ponder indexer please refer to the Ponder Deploy documentation https://ponder.sh/docs/production/deploy
 
+And then you have to set up the \`\`\`NEXT_PUBLIC_PONDER_URL\`\`\` env variable on your SE-2 dapp to use the deployed ponder indexer.
+
 `;
